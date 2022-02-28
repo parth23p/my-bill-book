@@ -1,0 +1,21 @@
+.search-item-table {
+  padding: 30px 25px;
+  margin: auto;
+  justify-content: left;
+  text-align: left;
+}
+
+.input-lables {
+  text-align: left;
+  color: darkblue;
+  font-weight: 200;
+  padding: 20px 5px;
+}
+.optional-section-label {
+  background-color: aliceblue;
+  text-align: left;
+  padding: 10px 2px;
+  margin: auto;
+  font-weight: 800;
+  width: 99%;
+}

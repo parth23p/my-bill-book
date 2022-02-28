@@ -1,0 +1,23 @@
+img {
+  height: 26px;
+}
+.blackText {
+  color: black;
+  padding: 2px 20px;
+}
+.blackText:hover {
+  color: #ef7338;
+  font-weight: 1000;
+  /* text-decoration: underline; */
+}
+.alignRight {
+  margin-right: 6px;
+}
+.blackText:hover {
+  font-weight: 1000;
+  background-image: linear-gradient(#ef7338, #ef7338);
+  background-position: bottom center; /*Adjust the background-position to move the line*/
+  background-size: 10% 2px; /*Adjust the background size to control length and height*/
+  background-repeat: no-repeat;
+  padding-bottom: 4px; /* this can also control the position */
+}

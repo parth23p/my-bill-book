@@ -1,0 +1,24 @@
+.container-bg-color {
+  background-color: rgb(255, 243, 227);
+}
+
+.body-container {
+  padding: 70px 32px;
+  margin: 15px;
+}
+.align-left {
+  text-align: left;
+  padding: 20px;
+}
+
+.container-text-align-left {
+  text-align: left;
+  padding: 10px;
+  margin-left: 68px;
+}
+.position-absolute {
+  position: relative;
+}
+.bootom-0 {
+  bottom: 0;
+}

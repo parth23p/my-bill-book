@@ -27,6 +27,13 @@
 .App-link {
   color: #61dafb;
 }
+.w-250 {
+  width: 250px;
+}
+.border-orange {
+  height: 4px;
+  background-color: #ef7338;
+}
 
 @keyframes App-logo-spin {
   from {

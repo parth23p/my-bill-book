@@ -1,0 +1,33 @@
+.footer-container {
+  padding: 10px 20px;
+  text-align: left;
+}
+.WhatsApp {
+  background-color: rgb(148, 251, 186);
+  border: none;
+  border-radius: 2px;
+  color: green;
+}
+.WhatsApp:hover {
+  background-color: rgb(148, 251, 186);
+  border-color: Green;
+  color: green;
+}
+.Chat,
+.Chat:hover {
+  background-color: rgb(216, 243, 255);
+  color: blue;
+  border-radius: 2px;
+  border: none;
+}
+.social-media .link {
+  height: 45px;
+  width: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  box-shadow: 0px 1px 2px rgb(0 0 0 / 16%);
+  cursor: pointer;
+  margin-right: 1rem;
+}
